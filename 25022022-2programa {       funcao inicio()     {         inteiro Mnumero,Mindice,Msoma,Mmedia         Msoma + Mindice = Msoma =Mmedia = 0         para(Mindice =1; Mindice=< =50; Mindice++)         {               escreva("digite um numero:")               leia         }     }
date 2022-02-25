@@ -1,0 +1,13 @@
+programa
+{  
+    funcao inicio()
+    {
+        inteiro Mnumero,Mindice,Msoma,Mmedia
+        Msoma + Mindice = Msoma =Mmedia = 0
+        para(Mindice =1; Mindice=< =50; Mindice++)
+        {
+              escreva("digite um numero:")
+              leia
+        }
+    }
+		
