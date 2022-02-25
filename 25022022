@@ -1,0 +1,18 @@
+programa 
+{
+    funcao inicio()
+{
+   inteiro Mnumero,MINDICE,MSOMA
+   Msoma = 0
+   Mindice= 0
+    para(Mindice =1; Mindice < =50; Mindice ++)
+    {
+      escreva("digite um numero")
+      leia(Mnumero)
+      Msoma= Msoma=Msoma+Mnumero
+      }
+        escreva("a somaé:",Msoma)
+   
+}
+}
+		
